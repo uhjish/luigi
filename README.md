@@ -1,4 +1,5 @@
-## Luigi: A Lightweight Genome Viewer
+## Luigi: Lightweight User Interface for Genomic Intervals
 
-```python -mCGIHTTPServer 8000```
+``` python app.py ```
 
+see js/luigi.js for most of the rendering logic
