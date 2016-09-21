@@ -1,1 +1,1 @@
-web: python -mCGIHTTPServer $PORT
+web: python app.py
