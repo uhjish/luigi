@@ -28,7 +28,7 @@ form = cgi.FieldStorage()
 
 dataUrl = get_required_var("data",form)
 
-mylookup = TemplateLookup(directories=['./tmpl'])
+mylookup = TemplateLookup(directories=['./'])
 
 
 ######################
